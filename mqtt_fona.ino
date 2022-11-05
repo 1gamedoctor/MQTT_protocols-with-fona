@@ -42,7 +42,7 @@ Adafruit_FONA fona = Adafruit_FONA(FONA_RST);
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
 #define AIO_USERNAME    "1gamedoctor"
-#define AIO_KEY         "aio_VfXZ57ogS3dmDphTjmwaLCsvWpBV"
+#define AIO_KEY         "******"
 
 /************ Global State (you don't need to change this!) ******************/
 
